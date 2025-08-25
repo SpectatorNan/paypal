@@ -11,7 +11,7 @@ import (
 	"net/http/httputil"
 	"time"
 
-	"github.com/plutov/paypal/v4/limiter"
+	"github.com/SpectatorNan/paypal/v4/limiter"
 )
 
 var ErrRateLimited = errors.New("rate limited")

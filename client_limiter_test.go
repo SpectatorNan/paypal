@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/plutov/paypal/v4/limiter"
+	"github.com/SpectatorNan/paypal/v4/limiter"
 	"github.com/stretchr/testify/assert"
 )
 
